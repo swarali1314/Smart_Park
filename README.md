@@ -4,6 +4,9 @@
 SmartPark is a real-time parking management system built using React and Firebase.  
 It allows users to check slot availability and book parking spaces digitally.
 
+## 🌐 Live Demo
+🔗 https://smart-park-f67e7.web.app 
+
 ## 🎯 Problem Statement
 Urban parking congestion causes time loss, traffic, and fuel wastage.
 
